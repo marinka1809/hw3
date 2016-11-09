@@ -1,0 +1,55 @@
+.body{
+padding: 0;
+margin:0;
+}
+.wrapper{
+	background:  white;
+	width: 1022px;
+	margin: auto;	
+	padding: 5px;
+	margin-top: 80px;
+	border: 1px solid #f1f1f1;
+	
+	
+}
+table{
+	margin-bottom: 20px;
+	border: 1px solid black;
+	border-spacing: 4px;
+}
+td,
+th{
+	border: 1px solid black;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top: 5px;
+}
+tbody th,
+.spectrum th{
+	text-align: left;
+}
+.pests{
+	width: 100%;
+	margin-top: 20px;
+}
+.spectrum {
+	border-collapse: collapse;
+	border: 3px solid grey;
+	width: 60%;
+	margin: auto;
+	margin-bottom: 20px;
+}
+.spectrum  td{
+	vertical-align: top;
+	padding-bottom: 5px;
+	
+}
+.term{
+	width: 60%;
+	margin: auto;
+	margin-bottom: 20px;
+	
+}
+
+
+
